@@ -1,0 +1,13 @@
+person:
+  name: xiaxuanzhe
+  age: 22
+  happy: true
+  birth: 2001/03/21
+  maps: {x1: v1, x2 : v2}
+  lists:
+    -code
+    -music
+    -girl
+  dog:
+    name: xiaohua
+    age: 6
